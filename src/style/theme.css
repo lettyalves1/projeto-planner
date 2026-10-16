@@ -1,0 +1,32 @@
+:root {
+    --lime-300: #BEF264;
+    --lime-950: #1A2E05;
+
+    --white: #FFFFFF;
+    --zinc-50: #FAFAFA;
+    --zinc-100: #F4F4F5;
+    --zinc-200: #E4E4E7;
+    --zinc-300: #D4D4D8;
+    --zinc-400: #A1A1AA;
+    --zinc-500: #71717A;
+    --zinc-700: #3F3F46;
+    --zinc-800: #27272A;
+    --zinc-900: #18181B;
+    --zinc-950: #09090B;
+
+  /* ...suas variáveis semânticas continuam aqui embaixo */
+
+    --color-primary: var(--lime-300);
+    --color-primary-dark: var(--lime-950);
+    --color-on-primary: var(--lime-950);
+ 
+    --color-background: var(--zinc-950);
+    --color-surface: var(--zinc-900);
+    --color-surface-elevated: var(--zinc-800);
+    --color-border: var(--zinc-700);
+ 
+    --color-text: var(--zinc-50);
+    --color-text-secondary: var(--zinc-400);
+    --color-text-muted: var(--zinc-500);
+    --color-text-inverse: var(--zinc-950);
+}
