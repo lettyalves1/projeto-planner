@@ -1,12 +1,13 @@
 # plann.er ✈️
 
-Site para montar planos de viagem com amigos: escolha onde e quando ir e convide quem vai com você.
+Um planejador de viagens inteligente desenvolvido para facilitar a organização de passeios com amigos, 
+permitindo definir destinos, datas e gerenciar convidados de forma simples.
 
 ## Funcionalidades
 
-- [x] Planejamento da viagem: destino (com autocomplete) e data
-- [ ] Cadastro de usuário
-- [ ] Convite de amigos para a viagem
+-  Planejamento da viagem: destino (com autocomplete) e data
+-  Cadastro de usuário
+-  Convite de amigos para a viagem
 
 ## Tecnologias
 
